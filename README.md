@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning <b>Python</b>
 
-- 👨‍💻 All of my projects are available at [https://github.com/Mssamcodes](https://github.com/Mssamcodes)
+- 👨‍💻 All of my projects are available at here
 
 - ⚡ Fun fact **I enjoy biking and gardening**
 
