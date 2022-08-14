@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Sam 👋</h1>
+<h1 align="center">Hi, I'm Sam! 👋</h1>
 <h3 align="center">A passionate frontend developer</h3>
 <img align="right" alt="coding" width="200" src="https://c.tenor.com/PX1doq1mxnYAAAAC/girl-hacker.gif">
 
@@ -8,7 +8,6 @@
 
 - ⚡ Fun fact **I enjoy biking and gardening**
 
-<h3 align="left">Let's Connect</h3>
 <p align="left">
 </p>
 
