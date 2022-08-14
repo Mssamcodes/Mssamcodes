@@ -1,5 +1,4 @@
 <h1 align="center">Hi, I'm Sam! 👋</h1>
-<h3 align="center">A passionate frontend developer</h3>
 <img align="right" alt="coding" width="200" src="https://c.tenor.com/PX1doq1mxnYAAAAC/girl-hacker.gif">
 
 - 🌱 I’m currently learning <b>Python</b>
