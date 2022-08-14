@@ -8,7 +8,7 @@
 
 - ⚡ Fun fact **I enjoy biking and gardening**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Let's Connect</h3>
 <p align="left">
 </p>
 
