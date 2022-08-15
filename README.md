@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning <b>Python</b>
 
-- 👨‍💻 All of my projects are available at <b>here</b>
+- 👨‍💻 All of my projects are available <b>here</b>
 
 - ⚡ Fun fact **I enjoy biking and gardening**
 
