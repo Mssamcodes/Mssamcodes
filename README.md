@@ -3,6 +3,8 @@
 
 - 🌱 I’m currently learning <b>Python</b>
 
+- 🌱 I’m currently using <b>React/b>
+- 
 - 👨‍💻 All of my projects are available <b>here</b>
 
 - Currently contrubiting to Open Source Project(s) <b>here</b>
